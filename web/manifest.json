@@ -1,0 +1,7 @@
+{
+  "name": "depo",
+  "short_name": "depo",
+  "description": "depo description",
+  "start_url": "/",
+  "display": "standalone"
+}
